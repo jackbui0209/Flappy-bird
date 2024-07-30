@@ -1,2 +1,2 @@
-# HoangBui
-flappy bird
+# Flappy bird
+Game
